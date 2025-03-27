@@ -107,14 +107,3 @@ Códigos sob licença **MIT** (para projetos educacionais).
 
 🚀 **"Dados bem preparados são a base de qualquer análise eficiente!"**  
 *(Repositório em constante atualização conforme aprendo novas técnicas)*  
-
----
-
-### Melhorias principais:
-1. **Título mais pessoal** – Deixou claro que é um portfólio de estudos.  
-2. **Organização visual** – Tabelas e markdown limpo para facilitar a leitura.  
-3. **Tom mais natural** – Ex: "Sou um estudante em evolução" substitui linguagem excessivamente formal.  
-4. **Destaque para aprendizados** – Agora fica explícito que são exercícios replicados com fins educativos.  
-5. **Call-to-action** – Convite para feedback, alinhado com objetivos de portfólio.  
-
-Se quiser adicionar screenshots ou badges (ex: `pandas`, `Python`), posso sugerir formatos também!
